@@ -3,9 +3,8 @@
 This project explores the application of **Reinforcement Learning** to the classic game **Hangman**. The agent learns to guess letters in a word through interactions with a custom-built environment, receiving feedback (rewards or penalties) based on its guesses. The learning is driven by a **Proximal Policy Optimization (PPO)** algorithm implemented from scratch using **TensorFlow**.
 
 <p align="center">
-  <img src="images/hangman_game.jpg" alt="Hangman Game" width="200"/>
+  <img src="images/hangman_game.jpg" alt="Hangman Game" width="350"/>
 </p>
----
 
 ## 🧩 Key Features
 
